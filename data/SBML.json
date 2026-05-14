@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-05-14T16:59:04.866555+00:00",
+  "updated_at": "2026-05-14T22:08:06.346244+00:00",
   "data_referencia": "2026-05-14",
   "airport_icao": "SBML",
   "airport_name": "SBML",
   "airport_info": {
-    "sg_aerodromo_icao": "SBRJ",
-    "sg_aerodromo_iata": "SDU",
-    "descricao": "SANTOS DUMONT - RIO DE JANEIRO - RJ - BRASIL"
+    "sg_aerodromo_icao": "SBML",
+    "sg_aerodromo_iata": "MII",
+    "descricao": "FRANK MILOYE MILENKOVICH - MARÍLIA - SP - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
