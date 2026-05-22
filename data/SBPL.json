@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-05-22T14:33:12.520417+00:00",
+  "updated_at": "2026-05-22T17:07:23.541083+00:00",
   "data_referencia": "2026-05-22",
   "airport_icao": "SBPL",
   "airport_name": "SBPL",
   "airport_info": {
-    "sg_aerodromo_icao": "SBPL",
-    "sg_aerodromo_iata": "PNZ",
-    "descricao": "SENADOR NILO COELHO - PETROLINA - PE - BRASIL"
+    "sg_aerodromo_icao": "SBGO",
+    "sg_aerodromo_iata": "GYN",
+    "descricao": "SANTA GENOVEVA/GOIÂNIA - GOIÂNIA - GO - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
