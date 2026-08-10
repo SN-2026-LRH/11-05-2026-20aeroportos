@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-10T10:13:26.945099+00:00",
+  "updated_at": "2026-08-10T12:59:23.237224+00:00",
   "data_referencia": "2026-08-10",
   "airport_icao": "SBBV",
   "airport_name": "Boa Vista",
   "airport_info": {
-    "sg_aerodromo_icao": "SBPA",
-    "sg_aerodromo_iata": "POA",
-    "descricao": "SALGADO FILHO - PORTO ALEGRE - RS - BRASIL"
+    "sg_aerodromo_icao": "SBBV",
+    "sg_aerodromo_iata": "BVB",
+    "descricao": "ATLAS BRASIL CANTANHEDE - BOA VISTA - RR - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
