@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T15:27:19.144377+00:00",
+  "updated_at": "2026-08-18T21:19:53.879176+00:00",
   "data_referencia": "2026-08-18",
   "airport_icao": "SBCF",
   "airport_name": "Belo Horizonte / Confins",
@@ -11760,28 +11760,6 @@
       "fonte": "SIROS/ANAC",
       "rota": "SBSP",
       "rota_nome": "Sao Paulo / Congonhas"
-    },
-    {
-      "callsign": "ACN5258",
-      "numero_voo": "5258",
-      "airline_icao": "ACN",
-      "airline": "ACN",
-      "equipamento_icao": "C208",
-      "equipamento": "C208",
-      "assentos": "9",
-      "etapa": "1",
-      "tipo_operacao": "Domestico",
-      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBCF",
-      "destino_icao": "SNZR",
-      "partida_iso": "2026-08-18T13:25:00-03:00",
-      "chegada_iso": "2026-08-18T15:15:00-03:00",
-      "partida_brt": "13:25",
-      "chegada_brt": "15:15",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "SNZR",
-      "rota_nome": "SNZR"
     },
     {
       "callsign": "ACN5258",
