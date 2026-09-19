@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-19T12:51:00.971976+00:00",
+  "updated_at": "2026-09-19T17:45:00.743796+00:00",
   "data_referencia": "2026-09-19",
   "airport_icao": "SBPL",
   "airport_name": "SBPL",
   "airport_info": {
-    "sg_aerodromo_icao": "SBJU",
-    "sg_aerodromo_iata": "JDO",
-    "descricao": "ORLANDO BEZERRA DE MENEZES - JUAZEIRO DO NORTE - CE - BRASIL"
+    "sg_aerodromo_icao": "SBPL",
+    "sg_aerodromo_iata": "PNZ",
+    "descricao": "SENADOR NILO COELHO - PETROLINA - PE - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
