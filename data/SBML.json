@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-13T16:55:11.919660+00:00",
+  "updated_at": "2026-11-14T01:14:03.195035+00:00",
   "data_referencia": "2026-11-13",
   "airport_icao": "SBML",
   "airport_name": "SBML",
   "airport_info": {
-    "sg_aerodromo_icao": "SBML",
-    "sg_aerodromo_iata": "MII",
-    "descricao": "FRANK MILOYE MILENKOVICH - MARÍLIA - SP - BRASIL"
+    "sg_aerodromo_icao": "SBFL",
+    "sg_aerodromo_iata": "FLN",
+    "descricao": "HERCÍLIO LUZ - FLORIANÓPOLIS - SC - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
